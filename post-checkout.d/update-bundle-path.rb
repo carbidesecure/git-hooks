@@ -1,0 +1,1 @@
+../shared-hooks/update-bundle-path.rb
